@@ -2,7 +2,7 @@
 Student. Majoring in Network Engineering. Founder of [GuaiTech](https://www.guaitech.org/).
 
 ### Public Keys
-Fingerprint = F597 0AD1 A37F A1AE B5C2  BCF9 EFA4 5847 A87B F6CE
+Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
 
 ### Devices in use：
 ![](https://img.shields.io/badge/OnePlus_13-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
