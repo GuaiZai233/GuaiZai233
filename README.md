@@ -10,7 +10,7 @@ Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
 
 ![](https://img.shields.io/badge/AMD_Ryzen_9700X-d3491e?style=flat-square&logo=amd&logoColor=ffffff)
 ![](https://img.shields.io/badge/NVIDIA_GeForce_GTX_1050_Ti-65a51c?style=flat-square&logo=nvidia&logoColor=ffffff)
-![](https://img.shields.io/badge/Microsoft_Surface_Pro_6-00a1f1?style=flat-square&logo=microsoft&logoColor=ffffff)
+![](https://img.shields.io/badge/Apple_Macbook_Air_(M1,2020)-000000?style=flat-square&logo=apple&logoColor=ffffff)
 
 ### Find me
 Blog: [https://gz.guaitech.org/](https://gz.guaitech.org/)
