@@ -7,6 +7,7 @@ Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
 ### Devices in use：
 ![](https://img.shields.io/badge/OnePlus_13-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![](https://img.shields.io/badge/Redmi_K_Pad-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![](https://img.shields.io/badge/iPhone_12_mini-000000?style=flat-square&logo=apple&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/AMD_Ryzen_9700X-d3491e?style=flat-square&logo=amd&logoColor=ffffff)
 ![](https://img.shields.io/badge/NVIDIA_GeForce_GTX_1050_Ti-65a51c?style=flat-square&logo=nvidia&logoColor=ffffff)
