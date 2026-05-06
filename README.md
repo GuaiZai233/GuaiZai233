@@ -1,6 +1,10 @@
 ### About
 Student. Majoring in Network Engineering. Founder of [GuaiTech](https://www.guaitech.org/).
 
+Label: DevOps / CICD ; Cloud Computing ; Network Engineering
+
+Language preferred: Golang
+
 ### Public Keys
 Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
 
@@ -14,7 +18,9 @@ Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
 ![](https://img.shields.io/badge/Apple_Macbook_Air_(M1,2020)-000000?style=flat-square&logo=apple&logoColor=ffffff)
 
 ### Find me
-Blog: [https://gz.guaitech.org/](https://gz.guaitech.org/)
+Blog: [https://blog.guaizai.top/](https://blog.guaizai.top/)
+
+Bilibili: [https://space.bilibili.com/431124510](https://space.bilibili.com/431124510)
 
 QQ Groups: 
 - 861023581 (Dev / Tests)
