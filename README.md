@@ -1,6 +1,6 @@
-![](https://github.com/GuaiZai233/GuaiZai233/blob/main/gz-q-head2.png)
-
 ## About
+<img src="https://github.com/GuaiZai233/GuaiZai233/blob/main/gz-q-head2.png?raw=true" align="right" />
+
 Student. Majoring in Network Engineering. Founder of [GuaiTech](https://www.guaitech.org/).
 
 Label: DevOps / CICD ; Cloud Computing ; Network Engineering
