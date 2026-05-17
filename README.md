@@ -22,6 +22,8 @@ Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
 ![](https://img.shields.io/badge/Apple_Macbook_Air_(M1,2020)-000000?style=flat-square&logo=apple&logoColor=ffffff)
 
 ## Find me
+<img src="https://github.com/GuaiZai233/GuaiZai233/blob/main/gz-gopher.png?raw=true" align="right" />
+
 Blog: [https://blog.guaizai.top/](https://blog.guaizai.top/)
 
 Bilibili: [https://space.bilibili.com/431124510](https://space.bilibili.com/431124510)
