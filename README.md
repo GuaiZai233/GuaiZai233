@@ -5,10 +5,13 @@ Student. Majoring in Network Engineering. Founder of [GuaiTech](https://www.guai
 
 Label: DevOps / CICD ; Cloud Computing ; Network Engineering
 
-Language preferred: Golang
+Programming language: Golang`(preferred)` / Python / Solidity / Julia
 
 ## Public Keys
+
+```
 Fingerprint = 4ACD 21F4 3914 7BB1 A73D  64FA FD65 B4BD EAEA 9426
+```
 
 [[keys.openpgp.org]](https://keys.openpgp.org/search?q=4ACD+21F4+3914+7BB1+A73D+64FA+FD65+B4BD+EAEA+9426) | [[Ubuntu Keyserver]](https://keyserver.ubuntu.com/pks/lookup?search=4ACD+21F4+3914+7BB1+A73D+64FA+FD65+B4BD+EAEA+9426&fingerprint=on&op=index)
 
